@@ -1,5 +1,9 @@
 # Aisha Rawat  
 
+![LCO Mascot](https://learncodeonline.in/mascot.png
+"LCO") 
+
+
 
 [Linkedin profile link](https://www.linkedin.com/in/aisha-rawat-a8bb26186)
 ### Hi there 👋 
