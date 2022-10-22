@@ -18,29 +18,30 @@
 
 
 ### Hi there 👋 
-I am Aisha Rawat . My main interest lies in ml and computer vision .
-I have done project on object detection and looking further to do more in this.
+I am Aisha Rawat . My main interest lies in Data ,Analytics and Data Science.
+I have done project on object detection,Prescriptive Analysis using Webscraping in Python, Building Drone Delievery Business Model and looking further to do more in this.
 </br>
 </br>
 
 
 
 
-- 🔭 I’m currently working on Machine Learning and Computer Vision
+- 🔭 I’m currently working as a Business Analyst at Kantar
 
-- 🌱 I’m currently learning Computer Vision Cs231n (Stanford online )
+- 🌱 I’m currently learning IBM Data Engineering Course
 
-- 👯 I’m looking to collaborate on Machine Learning and Computer Vision project
+- 👯 I have completed Data Analytics Track on Skillovilla
 
-- 🤔 I’m looking for help with matlab and tableau
+- 🤔 Just started with Tableau .It's cool
 
-- 💬 Ask me about ml , cascade classifiers and open cv
+- 💬Ask me about Pyhton ,Data Analysis
 
 - 📫 How to reach me: [This is my portfolio link](https://github.com/AishaRawat/AishaRawat/blob/master/README.md) or you can mail me at rawataisha981@gmail.com 
 
 - 😄 Pronouns: Optimistic
 
 - ⚡ Fun fact: My humour is deep , cause it's based on facts 
+            PS: It's Lame
 
 
 </br>
